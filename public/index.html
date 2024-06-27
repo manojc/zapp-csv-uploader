@@ -13,13 +13,12 @@
 <body>
     <h2>Zapp CSV Uploader</h2>
     <div id="myGrid" class="ag-theme-alpine">
-        <input type="file" name="csv file" id="csv-input">
+        <input type="file" name="csv file" id="csv-input" accept=".csv">
         <button onclick="window.app.uploadCsv()" class="btn-upload-csv">Upload</button>
     </div>
     <script src="/ag-grid.js"></script>
     <script src="/http-client.js"></script>
     <script src="/main.js"></script>
-
 </body>
 
 </html>
