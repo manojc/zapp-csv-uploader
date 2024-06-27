@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zapp CSV Uploader</title>
+    <link rel="stylesheet" href="/ag-grid.css">
+    <link rel="stylesheet" href="/ag-theme-alpine.css">
+    <link rel="stylesheet" href="/styles.css">
+</head>
+
+<body>
+    <h2>Zapp CSV Uploader</h2>
+    <div id="myGrid" class="ag-theme-alpine">
+        <input type="file" name="csv file" id="csv-input">
+        <button onclick="window.app.uploadCsv()" class="btn-upload-csv">Upload</button>
+    </div>
+    <script src="/ag-grid.js"></script>
+    <script src="/http-client.js"></script>
+    <script src="/main.js"></script>
+
+</body>
+
+</html>

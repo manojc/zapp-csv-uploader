@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node-terminal",
+            "name": "API",
+            "request": "launch",
+            "command": "./node_modules/.bin/nodemon ./src/app.local.ts",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "ENV": "prod",
+                "PORT": "3000"
+            }
+        }
+    ]
+}

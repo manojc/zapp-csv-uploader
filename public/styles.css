@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+.ag-theme-alpine {
+    height: 500px;
+    width: 1010px;
+    margin: auto;
+}
+
+.ag-header-cell-label {
+    justify-content: center;
+}
+
+input[type='file'] {
+    border: solid thin grey;
+    padding: 5px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.btn-upload-csv {
+    margin-bottom: 10px;
+    margin-left: 10px;
+    height: 33px;
+}

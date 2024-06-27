@@ -1,0 +1,201 @@
+quantity,sku,description,store
+15,UK-2000,Item 0 description,KEN
+3,UK-2001,Item 1 info,BAT
+12,UK-2002,Item 2 details,NYC
+9,UK-2003,Item 3 random text,LON
+1,UK-2004,Item 4 description,KEN
+8,UK-2005,Item 5 info,BAT
+7,UK-2006,Item 6 details,NYC
+4,UK-2007,Item 7 random text,LON
+18,UK-2008,Item 8 description,KEN
+2,UK-2009,Item 9 info,BAT
+20,UK-2010,Item 10 details,NYC
+13,UK-2011,Item 11 random text,LON
+11,UK-2012,Item 12 description,KEN
+6,UK-2013,Item 13 info,BAT
+14,UK-2014,Item 14 details,NYC
+10,UK-2015,Item 15 random text,LON
+5,UK-2016,Item 16 description,KEN
+19,UK-2017,Item 17 info,BAT
+17,UK-2018,Item 18 details,NYC
+16,UK-2019,Item 19 random text,LON
+2,UK-2020,Item 20 description,KEN
+8,UK-2021,Item 21 info,BAT
+7,UK-2022,Item 22 details,NYC
+3,UK-2023,Item 23 random text,LON
+11,UK-2024,Item 24 description,KEN
+6,UK-2025,Item 25 info,BAT
+4,UK-2026,Item 26 details,NYC
+20,UK-2027,Item 27 random text,LON
+14,UK-2028,Item 28 description,KEN
+10,UK-2029,Item 29 info,BAT
+5,UK-2030,Item 30 details,NYC
+19,UK-2031,Item 31 random text,LON
+17,UK-2032,Item 32 description,KEN
+16,UK-2033,Item 33 info,BAT
+15,UK-2034,Item 34 details,NYC
+12,UK-2035,Item 35 random text,LON
+9,UK-2036,Item 36 description,KEN
+1,UK-2037,Item 37 info,BAT
+8,UK-2038,Item 38 details,NYC
+7,UK-2039,Item 39 random text,LON
+18,UK-2040,Item 40 description,KEN
+2,UK-2041,Item 41 info,BAT
+20,UK-2042,Item 42 details,NYC
+13,UK-2043,Item 43 random text,LON
+11,UK-2044,Item 44 description,KEN
+6,UK-2045,Item 45 info,BAT
+14,UK-2046,Item 46 details,NYC
+10,UK-2047,Item 47 random text,LON
+5,UK-2048,Item 48 description,KEN
+19,UK-2049,Item 49 info,BAT
+17,UK-2050,Item 50 details,NYC
+16,UK-2051,Item 51 random text,LON
+2,UK-2052,Item 52 description,KEN
+8,UK-2053,Item 53 info,BAT
+7,UK-2054,Item 54 details,NYC
+3,UK-2055,Item 55 random text,LON
+11,UK-2056,Item 56 description,KEN
+6,UK-2057,Item 57 info,BAT
+4,UK-2058,Item 58 details,NYC
+20,UK-2059,Item 59 random text,LON
+14,UK-2060,Item 60 description,KEN
+10,UK-2061,Item 61 info,BAT
+5,UK-2062,Item 62 details,NYC
+19,UK-2063,Item 63 random text,LON
+17,UK-2064,Item 64 description,KEN
+16,UK-2065,Item 65 info,BAT
+15,UK-2066,Item 66 details,NYC
+12,UK-2067,Item 67 random text,LON
+9,UK-2068,Item 68 description,KEN
+1,UK-2069,Item 69 info,BAT
+8,UK-2070,Item 70 details,NYC
+7,UK-2071,Item 71 random text,LON
+18,UK-2072,Item 72 description,KEN
+2,UK-2073,Item 73 info,BAT
+20,UK-2074,Item 74 details,NYC
+13,UK-2075,Item 75 random text,LON
+11,UK-2076,Item 76 description,KEN
+6,UK-2077,Item 77 info,BAT
+14,UK-2078,Item 78 details,NYC
+10,UK-2079,Item 79 random text,LON
+5,UK-2080,Item 80 description,KEN
+19,UK-2081,Item 81 info,BAT
+17,UK-2082,Item 82 details,NYC
+16,UK-2083,Item 83 random text,LON
+2,UK-2084,Item 84 description,KEN
+8,UK-2085,Item 85 info,BAT
+7,UK-2086,Item 86 details,NYC
+3,UK-2087,Item 87 random text,LON
+11,UK-2088,Item 88 description,KEN
+6,UK-2089,Item 89 info,BAT
+4,UK-2090,Item 90 details,NYC
+20,UK-2091,Item 91 random text,LON
+14,UK-2092,Item 92 description,KEN
+10,UK-2093,Item 93 info,BAT
+5,UK-2094,Item 94 details,NYC
+19,UK-2095,Item 95 random text,LON
+17,UK-2096,Item 96 description,KEN
+16,UK-2097,Item 97 info,BAT
+15,UK-2098,Item 98 details,NYC
+12,UK-2099,Item 99 random text,LON
+9,UK-2100,Item 100 description,KEN
+1,UK-2101,Item 101 info,BAT
+8,UK-2102,Item 102 details,NYC
+7,UK-2103,Item 103 random text,LON
+18,UK-2104,Item 104 description,KEN
+2,UK-2105,Item 105 info,BAT
+20,UK-2106,Item 106 details,NYC
+13,UK-2107,Item 107 random text,LON
+11,UK-2108,Item 108 description,KEN
+6,UK-2109,Item 109 info,BAT
+14,UK-2110,Item 110 details,NYC
+10,UK-2111,Item 111 random text,LON
+5,UK-2112,Item 112 description,KEN
+19,UK-2113,Item 113 info,BAT
+17,UK-2114,Item 114 details,NYC
+16,UK-2115,Item 115 random text,LON
+2,UK-2116,Item 116 description,KEN
+8,UK-2117,Item 117 info,BAT
+7,UK-2118,Item 118 details,NYC
+3,UK-2119,Item 119 random text,LON
+11,UK-2120,Item 120 description,KEN
+6,UK-2121,Item 121 info,BAT
+4,UK-2122,Item 122 details,NYC
+20,UK-2123,Item 123 random text,LON
+14,UK-2124,Item 124 description,KEN
+10,UK-2125,Item 125 info,BAT
+5,UK-2126,Item 126 details,NYC
+19,UK-2127,Item 127 random text,LON
+17,UK-2128,Item 128 description,KEN
+16,UK-2129,Item 129 info,BAT
+15,UK-2130,Item 130 details,NYC
+12,UK-2131,Item 131 random text,LON
+9,UK-2132,Item 132 description,KEN
+1,UK-2133,Item 133 info,BAT
+8,UK-2134,Item 134 details,NYC
+7,UK-2135,Item 135 random text,LON
+18,UK-2136,Item 136 description,KEN
+2,UK-2137,Item 137 info,BAT
+20,UK-2138,Item 138 details,NYC
+13,UK-2139,Item 139 random text,LON
+11,UK-2140,Item 140 description,KEN
+6,UK-2141,Item 141 info,BAT
+14,UK-2142,Item 142 details,NYC
+10,UK-2143,Item 143 random text,LON
+5,UK-2144,Item 144 description,KEN
+19,UK-2145,Item 145 info,BAT
+17,UK-2146,Item 146 details,NYC
+16,UK-2147,Item 147 random text,LON
+2,UK-2148,Item 148 description,KEN
+8,UK-2149,Item 149 info,BAT
+7,UK-2150,Item 150 details,NYC
+3,UK-2151,Item 151 random text,LON
+11,UK-2152,Item 152 description,KEN
+6,UK-2153,Item 153 info,BAT
+4,UK-2154,Item 154 details,NYC
+20,UK-2155,Item 155 random text,LON
+14,UK-2156,Item 156 description,KEN
+10,UK-2157,Item 157 info,BAT
+5,UK-2158,Item 158 details,NYC
+19,UK-2159,Item 159 random text,LON
+17,UK-2160,Item 160 description,KEN
+16,UK-2161,Item 161 info,BAT
+15,UK-2162,Item 162 details,NYC
+12,UK-2163,Item 163 random text,LON
+9,UK-2164,Item 164 description,KEN
+1,UK-2165,Item 165 info,BAT
+8,UK-2166,Item 166 details,NYC
+7,UK-2167,Item 167 random text,LON
+18,UK-2168,Item 168 description,KEN
+2,UK-2169,Item 169 info,BAT
+20,UK-2170,Item 170 details,NYC
+13,UK-2171,Item 171 random text,LON
+11,UK-2172,Item 172 description,KEN
+6,UK-2173,Item 173 info,BAT
+14,UK-2174,Item 174 details,NYC
+10,UK-2175,Item 175 random text,LON
+5,UK-2176,Item 176 description,KEN
+19,UK-2177,Item 177 info,BAT
+17,UK-2178,Item 178 details,NYC
+16,UK-2179,Item 179 random text,LON
+2,UK-2180,Item 180 description,KEN
+8,UK-2181,Item 181 info,BAT
+7,UK-2182,Item 182 details,NYC
+3,UK-2183,Item 183 random text,LON
+11,UK-2184,Item 184 description,KEN
+6,UK-2185,Item 185 info,BAT
+4,UK-2186,Item 186 details,NYC
+20,UK-2187,Item 187 random text,LON
+14,UK-2188,Item 188 description,KEN
+10,UK-2189,Item 189 info,BAT
+5,UK-2190,Item 190 details,NYC
+19,UK-2191,Item 191 random text,LON
+17,UK-2192,Item 192 description,KEN
+16,UK-2193,Item 193 info,BAT
+15,UK-2194,Item 194 details,NYC
+12,UK-2195,Item 195 random text,LON
+9,UK-2196,Item 196 description,KEN
+1,UK-2197,Item 197 info,BAT
+8,UK-2198,Item 198 details,NYC
+7,UK-2199,Item 199 random text,LON

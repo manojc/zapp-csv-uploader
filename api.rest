@@ -1,0 +1,48 @@
+@host = http://localhost:3000
+
+POST {{host}}/api/csv/upload HTTP/1/1
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundary7MA4YWxkTrZu0gW
+
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="file"; filename="file.csv"
+Content-Type: text/csv
+
+< ./example.csv
+------WebKitFormBoundary7MA4YWxkTrZu0gW--
+###
+
+
+POST {{host}}/api/csv/list HTTP/1/1
+Content-Type: application/json
+
+{
+    "page_number": 1,
+    "page_size": 20 
+}
+###
+
+
+POST {{host}}/api/csv HTTP/1/1
+Content-Type: application/json
+
+{
+    "quantity": 13,
+    "sku": "UK-3001",
+    "description": "New Item",
+    "store": "PRE"
+}
+###
+
+
+PUT {{host}}/api/csv/416 HTTP/1/1
+Content-Type: application/json
+
+{
+    "quantity": 9,
+    "description": "New Item Updated AGain"
+}
+###
+
+
+DELETE {{host}}/api/csv/15 HTTP/1/1
+###
